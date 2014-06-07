@@ -1,6 +1,6 @@
 # Rulers
 
-A simple Rails-like app.
+A simple Rails-like framework.
 
 ## Installation
 
