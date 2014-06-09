@@ -18,4 +18,10 @@ class RulersAppTest < Test::Unit::TestCase
     assert body["Hello"]
   end
 
+
+  def test_array_sum
+    a = [3,4,5]
+    assert_equal 12, a.sum
+  end
+
 end
